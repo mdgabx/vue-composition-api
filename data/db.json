@@ -1,0 +1,7 @@
+{
+    "posts": [
+        {   "title": "Title 1", 
+            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio deserunt ab facilis earum placeat quod voluptatum eum fuga soluta architecto, ipsum ut ad? Pariatur laudantium velit quis delectus blanditiis porro similique soluta quibusdam, minima, vel reiciendis tenetur officiis qui aut perferendis earum enim ut dolorem natus possimus vero, cupiditate maiores quidem! Corporis nulla veritatis nemo aliquam repellendus culpa repellat, aperiam id aspernatur necessitatibus odio veniam cupiditate nisi explicabo quae quisquam ab, officiis ut voluptatum neque saepe quo! Tempora neque ab consequuntur accusantium inventore dolorum quidem quis? Dolorem sunt deserunt, accusantium consequatur aliquid ex molestias similique minima est porro sed debitis.", "id": 1 },
+        {   "title": "Title 2", "body": "Lorem ipsum", "id": 2 }
+      ]
+}
