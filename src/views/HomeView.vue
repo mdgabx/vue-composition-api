@@ -9,19 +9,6 @@
     <div v-else>
       Loading...
     </div>
-  
-    <!-- <p ref="p">Name {{ name }} and {{ age }}</p>
-    <button @click="handleClick">Click</button>
-    <input type="text" v-model="name" />
-   -->
-   <!-- <input type="text" v-model="search" />
-   <p>{{ search }}</p>
-   <div v-for="name in matchingNames" :key="name">
-    {{ name }}
-   </div>
-   <button @click="handleStop">stop watch</button> -->
-
-  
   </div>
 </template>
 
